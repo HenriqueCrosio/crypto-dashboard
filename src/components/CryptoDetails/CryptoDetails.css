@@ -1,0 +1,42 @@
+.crypto-details {
+    background-color: #2a2a2a; /* Fundo escuro */
+    border-radius: 10px; /* Bordas arredondadas */
+    padding: 15px; /* Reduzindo o padding */
+    margin-top: 20px;
+    margin-bottom: 40px; /* Adicionado para dar espaço acima do footer */
+    color: #ffffff; /* Texto em branco */
+    text-align: center; /* Centralizando o texto */
+    box-shadow: 0 4px 6px rgba(0, 255, 0, 0.1); /* Sombra suave */
+    max-width: 300px; /* Largura máxima do card */
+    margin-left: auto; /* Centralizando horizontalmente */
+    margin-right: auto; /* Centralizando horizontalmente */
+}
+
+.crypto-details h2 {
+    color: #00ff00; /* Título em verde radiante */
+    margin-bottom: 10px; /* Margem inferior reduzida */
+}
+
+.crypto-details .crypto-icon {
+    width: 60px; /* Tamanho do ícone ajustado */
+    height: 60px; /* Tamanho do ícone ajustado */
+    margin-bottom: 15px;
+}
+
+.crypto-info p {
+    margin: 5px 0; /* Margem entre os parágrafos ajustada */
+    font-size: 16px; /* Tamanho da fonte ajustado para melhor legibilidade */
+}
+
+.highlight {
+    font-weight: bold; /* Destaque em negrito */
+    color: #00ff00; /* Verde radiante para destaque */
+}
+
+.positive {
+    color: #00ff00; /* Verde para variação positiva */
+}
+
+.negative {
+    color: #ff4d4d; /* Vermelho para variação negativa */
+}
