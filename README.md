@@ -31,6 +31,10 @@ Um dashboard em tempo real para acompanhamento de criptomoedas, construído com 
 - Adicionar gráficos de preços
 - Implementar sistema de favoritos
 
+## Caminho para o projeto
+
+https://henriquecrosio.github.io/crypto-dashboard/
+
 ## Autor
 
 Henrique Crosio Neto
